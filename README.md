@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alfonsoperezs.alfonsoperezs&"  />
-</div>
-
 ###
 
 <h1 align="center">Hello 👋</h1>
@@ -46,6 +42,10 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alfonsoperezs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alfonsoperezs.alfonsoperezs&"  />
 </div>
 
 ###
